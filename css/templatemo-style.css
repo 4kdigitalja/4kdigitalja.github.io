@@ -962,7 +962,7 @@ ul.follow-us li a i {
 .slideshow-container {
   max-width: 1000px;
   position: relative;
-  margin: auto;
+  margin: 500;
 }
 
 .mySlides {
