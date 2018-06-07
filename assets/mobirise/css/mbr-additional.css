@@ -1753,25 +1753,29 @@ body {
 .cid-qU8aLtTVNZ .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-qUehkAnY5N {
-  background-image: url("../../../assets/images/xplain-white-wallpapers-1080p-is-cool-wallpapers.jpg.pagespeed.ic.vmew3ctgvn-1-1920x1080.jpg");
+.cid-qUiTHK7qvI {
+  background-image: url("../../../assets/images/background4.jpg");
 }
-.cid-qUehkAnY5N h1 {
-  color: #616161;
+@media (min-width: 992px) {
+  .cid-qUiTHK7qvI .mbr-figure {
+    padding-right: 4rem;
+  }
 }
-.cid-qUehkAnY5N h2,
-.cid-qUehkAnY5N h3,
-.cid-qUehkAnY5N p {
-  color: #767676;
+@media (max-width: 991px) {
+  .cid-qUiTHK7qvI .mbr-figure {
+    padding-bottom: 3rem;
+  }
 }
-.cid-qUehkAnY5N .mbr-section-subtitle {
-  font-style: italic;
+@media (max-width: 767px) {
+  .cid-qUiTHK7qvI .mbr-text {
+    text-align: center;
+  }
 }
-.cid-qUehkAnY5N H1 {
-  text-align: left;
+.cid-qUiTHK7qvI H3 {
+  text-align: center;
 }
-.cid-qUehkAnY5N P {
-  color: #82786e;
+.cid-qUiTHK7qvI H1 {
+  text-align: center;
 }
 .cid-qUhRJFV9F6 {
   padding-top: 30px;
