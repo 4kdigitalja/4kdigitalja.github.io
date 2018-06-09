@@ -1776,6 +1776,37 @@ body {
 .cid-qUjhl54DRW P {
   color: #ffffff;
 }
+.cid-qUhWviUJJo {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qUhWviUJJo .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qUhWre85Hx {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f9f9f9;
+}
+.cid-qUhWre85Hx h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qUhWre85Hx p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qUhWre85Hx .card-box {
+  padding-top: 2rem;
+}
+.cid-qUhWre85Hx .card-wrapper {
+  height: 100%;
+}
+.cid-qUhWre85Hx .card-title {
+  color: #232323;
+}
 .cid-qUhRJFV9F6 {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -1822,37 +1853,6 @@ body {
     max-width: 20%;
     padding: 15px;
   }
-}
-.cid-qUhWviUJJo {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qUhWviUJJo .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qUhWre85Hx {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #f9f9f9;
-}
-.cid-qUhWre85Hx h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qUhWre85Hx p {
-  color: #767676;
-  text-align: left;
-}
-.cid-qUhWre85Hx .card-box {
-  padding-top: 2rem;
-}
-.cid-qUhWre85Hx .card-wrapper {
-  height: 100%;
-}
-.cid-qUhWre85Hx .card-title {
-  color: #232323;
 }
 .cid-qUj3SF29eA {
   padding-top: 15px;
@@ -1925,13 +1925,13 @@ body {
   text-align: left;
 }
 .cid-qU8aLtTVNZ .navbar {
-  background: #efefef;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qU8aLtTVNZ .navbar-dropdown.bg-color.transparent.opened {
-  background: #efefef;
+  background: #ffffff;
 }
 .cid-qU8aLtTVNZ a {
   font-style: normal;
@@ -2015,7 +2015,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qU8aLtTVNZ .dropdown .dropdown-menu {
-  background: #efefef;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2359,13 +2359,13 @@ body {
   background: #efefef;
 }
 .cid-qU8aLtTVNZ .navbar {
-  background: #efefef;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qU8aLtTVNZ .navbar-dropdown.bg-color.transparent.opened {
-  background: #efefef;
+  background: #ffffff;
 }
 .cid-qU8aLtTVNZ a {
   font-style: normal;
@@ -2449,7 +2449,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qU8aLtTVNZ .dropdown .dropdown-menu {
-  background: #efefef;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
