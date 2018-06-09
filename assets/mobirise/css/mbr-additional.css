@@ -2374,6 +2374,14 @@ body {
 .cid-qUhVWLZ0Bn .team-item .item-caption {
   background: #efefef;
 }
+.cid-qUrSIxyMo0 {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qUrSIxyMo0 .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-qU8aLtTVNZ .navbar {
   background: #ffffff;
   transition: none;
@@ -2762,4 +2770,59 @@ body {
 .cid-qU8aLtTVNZ .nav-link:hover,
 .cid-qU8aLtTVNZ .dropdown-item:hover {
   color: #ff3366 !important;
+}
+.cid-qUrSH0GUiN {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-qUrSH0GUiN .card-img {
+  background-color: #fff;
+}
+.cid-qUrSH0GUiN .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-qUrSH0GUiN h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qUrSH0GUiN p {
+  text-align: left;
+}
+.cid-qUrSH0GUiN .mbr-text {
+  color: #232323;
+}
+.cid-qUrSH0GUiN .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qUrSH0GUiN .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-qUrSH0GUiN .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
+.cid-qUrTbx7RNp {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #f51200;
+}
+.cid-qUrTbx7RNp .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qUrZL7pXti {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qUrZL7pXti .mbr-section-subtitle {
+  color: #767676;
 }
