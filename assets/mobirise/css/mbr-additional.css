@@ -683,6 +683,7 @@ a:hover {
   right: 0;
   top: 0;
   z-index: 0;
+  pointer-events: none;
 }
 blockquote {
   font-style: italic;
@@ -1608,6 +1609,10 @@ body {
 .cid-r1XunKCbl8 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-r1XunKCbl8 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-r1XunKCbl8 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-r1XunKCbl8 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-r1XunKCbl8 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1702,6 +1707,10 @@ body {
   .cid-r1XunKCbl8 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-r1XunKCbl8 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-r1XunKCbl8 .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-r1XunKCbl8 .navbar-collapse.collapsing .navbar-buttons,
   .cid-r1XunKCbl8 .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1787,28 +1796,31 @@ body {
 .cid-rhZY8YzxC0 H1 {
   color: #0f7699;
 }
-.cid-rhVcvgILmj {
-  padding-top: 45px;
-  padding-bottom: 30px;
-  background-color: #f9f9f9;
+.cid-rlbY4bmqBY {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1920x1271.jpg");
 }
-.cid-rhVcvgILmj h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
+.cid-rlbY4bmqBY .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
 }
-.cid-rhVcvgILmj p {
-  color: #767676;
-  text-align: left;
+@media (min-width: 992px) {
+  .cid-rlbY4bmqBY .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
 }
-.cid-rhVcvgILmj .card-box {
-  padding-top: 2rem;
+@media (max-width: 991px) {
+  .cid-rlbY4bmqBY .mbr-figure {
+    padding-bottom: 3rem;
+  }
 }
-.cid-rhVcvgILmj .card-wrapper {
-  height: 100%;
-}
-.cid-rhVcvgILmj .card-title {
-  color: #232323;
+@media (max-width: 767px) {
+  .cid-rlbY4bmqBY .mbr-text {
+    text-align: center;
+  }
 }
 .cid-qUj3SF29eA {
   padding-top: 15px;
