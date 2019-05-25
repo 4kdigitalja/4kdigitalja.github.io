@@ -566,7 +566,8 @@
               "margin": "0 auto"
             },
             ".section-text": {
-              "padding": "2rem 0"
+              "padding": "2rem 0",
+              "text-align": "left"
             },
             ".inner-container": {
               "margin": "0 auto"
@@ -577,17 +578,17 @@
               }
             },
             ".section-text DIV": {
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"90\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"33\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text>SMART is an acronym for <b>S</b>ystem <b>M</b>onitoring <b>A</b>lert <b>R</b>esponse<b> T</b>echnology.\n<div>\n</div><div><b>SMART CCTV Technology:\n</b></div><div>Will self-diagnose the surveillance system and send periodic status reports to you.\n</div><div>Will request service from us when the DVR, NVR or cameras require service and notify you as well.\n</div><div>Will notify you if there are any system failures, the system gets hacked or is not recording.</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text>SMART is an acronym for <b>S</b>ystem <b>M</b>onitoring <b>A</b>lert <b>R</b>esponse<b> T</b>echnology.\n<div>\n</div><div><b>SMART CCTV Technology:\n</b></div><div>Will self-diagnose the surveillance system and send periodic status reports to you.\n</div><div>Will request service from us when the DVR, NVR or cameras require service and notify you as well.\n</div><div>Will notify you if there are any system failures, the system gets hacked or is not recording.</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "rqbq7koNL0",
+          "_anchor": "content9-2l",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content9-2l"
+          "_params": {}
         },
         {
           "_styles": {
